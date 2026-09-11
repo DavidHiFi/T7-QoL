@@ -1,0 +1,7 @@
+# Store every file byte-for-byte: no CRLF/LF translation, ever.
+#
+# This repo is a restore point for a game mod, not a source tree. Binaries and
+# extensionless files are expected, and a line-ending rewrite on the wrong file
+# produces a mod that builds and then misbehaves in game for no visible reason.
+# Checking out any commit must give back exactly what was committed.
+* -text
