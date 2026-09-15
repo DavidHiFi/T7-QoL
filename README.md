@@ -15,6 +15,6 @@ Part of the [Quality Of Life Series](https://github.com/DavidHiFi/Plutonium-QoL-
 
 ## Mod manager
 
-The series has one: [**Quality of Life Series**](https://github.com/DavidHiFi/QualityOfLifeSeries), which installs, updates and removes mods and manages everything in your Plutonium folders.
+The series has one: [**Quality Of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLifeModManager), which installs, updates and removes mods and manages everything in your Plutonium folders.
 
 Plutonium does not run Black Ops III, so it cannot manage this game - it covers World at War, Black Ops and Black Ops II. Worth having if you play any of those.
