@@ -37,14 +37,6 @@ The [**Quality of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLife
 > [!NOTE]
 > **Black Ops III does not run on Plutonium.** This mod will install a different way from the rest of the series.
 
----
-
-## Support development
-
-This mod will be free, like the rest of the series. Any amount of support is greatly appreciated, and it helps the series get to Black Ops III sooner.
-
-[![Support DavidHiFi on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/davidhifi)
-
 ## Contributing
 
 Ideas and the Black Ops III Zombies annoyances you want fixed are the most useful thing right now.
