@@ -1,21 +1,19 @@
-# Contributing
+# Contributing to T7-QoL
 
-Thanks for the interest in T7 QoL. Development has not started yet, so this repository collects ideas for now.
+Thanks for the interest. Development has not started yet, so this repository collects ideas for now.
 
-## Ways to help
+## Suggesting a feature
 
-- Share ideas for a Black Ops 3 zombies quality of life mod through issues
-- Describe the pain points you hit in game, with mode and round where relevant
-- Hold code and pull requests until development starts
+[Open an issue](https://github.com/DavidHiFi/T7-QoL/issues/new) that describes what you want in Black Ops III Zombies and why. Name the map, mode and round where it bothers you. A screenshot or a clip helps.
 
-## Getting set up
+## Reporting a bug
 
-Nothing to build yet. The T6 mod is the current focus, and the mod manager covers World at War, Black Ops and Black Ops 2.
+There is no mod to break yet. Bugs in the Black Ops II mod go to [T6-QoL](https://github.com/DavidHiFi/T6-QoL/issues/new), and bugs in the mod manager go to [QualityOfLifeModManager](https://github.com/DavidHiFi/QualityOfLifeModManager/issues/new).
 
-## Checks before a pull request
+## Sending a pull request
 
-- Until development starts, keep contributions to issues
+Please hold code until development starts. There is nothing to build or test yet, and this file will list the setup and checks once there is.
 
-## Where to submit
+## License
 
-Open issues in this repository. Code and pull requests wait until the mod takes shape.
+By contributing, you agree that your work is released under this repo's [MIT License](LICENSE).
