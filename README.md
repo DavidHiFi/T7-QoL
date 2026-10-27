@@ -28,9 +28,9 @@ Part of the [Quality Of Life Series](https://github.com/DavidHiFi/Plutonium-QoL-
 
 ## Mod manager
 
-The [**Quality of Life Mod Manager**](https://github.com/DavidHiFi/QualityOfLifeModManager) already launches Black Ops III through the T7-CLL or [BOIII Community](https://gitlab.com/boiii-community/BOIII-Community) clients.
+The [**Blutac Launcher**](https://github.com/DavidHiFi/Blutac-Launcher) already launches Black Ops III through the T7-CLL or [BOIII Community](https://gitlab.com/boiii-community/BOIII-Community) clients.
 
-[Download it](https://github.com/DavidHiFi/QualityOfLifeModManager/releases/latest): setup or portable zip, Windows 10 or 11.
+[Download it](https://github.com/DavidHiFi/Blutac-Launcher/releases/latest): setup or portable zip, Windows 10 or 11.
 
 ## Notes
 
